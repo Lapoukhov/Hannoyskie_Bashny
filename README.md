@@ -68,7 +68,7 @@ Display all permutations of a number.
 		      end;
 		    end;
 		end;
-		//Start
+		
 		begin
 		  SetConsoleCP(1251);
 		  SetConsoleOutputCP(1251);
