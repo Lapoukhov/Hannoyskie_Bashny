@@ -1,5 +1,6 @@
 ## Hannoyskie Bashny
 ### Lab №4 (2 sem)
+
 ### Task:
 Display all permutations of a number.
 
